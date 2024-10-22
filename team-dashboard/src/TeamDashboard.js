@@ -8,7 +8,7 @@ const TeamDashboard = () => {
     {
       role: 'Team Manager',
       name: 'Bikash Dahal',
-      experience: '10 years',
+      experience: '1 year',
       projects: 'Project A', 
       email: 'bikash.dahal@example.com',
        photo: require('./images/image.jpg'), 
@@ -16,7 +16,7 @@ const TeamDashboard = () => {
     {
       role: 'Developer',
       name: 'Rajesh Khadka',
-      experience: '5 years',
+      experience: '1 year',
       projects: 'Project B',
       email: 'rajesh@example.com',
       // photo: require('./images/pink.jpg'), 
@@ -24,7 +24,7 @@ const TeamDashboard = () => {
     {
       role: 'Developer',
       name: 'Pranisha Neupane',
-      experience: '4 years',
+      experience: '1 year',
       projects: 'Project C',
       email: 'pranisha@example.com',
     //  photo: require('./images/yello.jpg'), 
@@ -34,7 +34,7 @@ const TeamDashboard = () => {
     {
         role: 'Developer',
         name: 'Samiksha Ghimire',
-        experience: '4 years',
+        experience: '1 year',
         projects: 'Project D',
         email: 'samiksha@example.com',
       //  photo: require('./images/red.jpg'), 
@@ -44,7 +44,7 @@ const TeamDashboard = () => {
     {
         role: 'Developer',
         name: 'Preeti Shrestha',
-        experience: '4 years',
+        experience: '1 year',
         projects: 'Project E',
         email: 'preeti@example.com',
       //  photo: require('./images/flower.jpg'), 
